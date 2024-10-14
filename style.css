@@ -1,0 +1,8 @@
+
+.sq { 
+    background-color: pink;
+    width: 20px;
+    height: 20px;
+    border: thin solid black;
+    flex-shrink: 0;
+}
